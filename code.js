@@ -1,0 +1,1 @@
+document.getElementById('message').innerHTML = 'X Turn';
